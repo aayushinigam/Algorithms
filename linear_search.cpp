@@ -41,4 +41,5 @@ int main() {
 /*
 Worst Case Time Complexity : O(n) i.e. when element is present is at the last index or not 
                              not present at all in which loop will iterate n times. 
+Average Case Time Complexity: O(n)
 */                            
