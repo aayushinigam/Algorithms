@@ -1,1 +1,1 @@
-A collection of various useful algorithms.
+A new algorithm each day.
